@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フロイトメタ",
+  "base_artist": "biz",
+  "createdAt": "2026-02-20T15:35:44.693658Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フロイトメタ",
+      "artist": "biz, Ado",
+      "has_synced": false,
+      "path": "select/pl_01_フロイトメタ_biz,_Ado.txt"
+    }
+  ]
+}
